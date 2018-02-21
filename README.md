@@ -23,15 +23,16 @@
 
 现在代码和样式尚且粗陋，也有一些可待优化地方，因此欢迎有兴趣的同行与我一起继续完善，thx。 
 
-2018-2-21：优化部分显示，修复在实体机预览时不加载图片；
+2018-2-21：优化部分显示，优化部分注释，修复在实体机预览时不加载图片；
 
 如有转载，请注明出处，谢谢！
 
 效果预览：  
 
-![Alt text](./wechat-v2ex-1.gif)  
-![Alt text](./wechat-v2ex-2.gif)  
+![Alt text](./Image-3.png)  
 
 ## 感谢  
+
+v2ex数据[api](https://www.v2ex.com/p/7v9TEc53)接口
 
 v2ex数据api基本上使用了samuel1112的仓库[v2er](https://github.com/samuel1112/v2er)里封装的方法，特此表示感谢
