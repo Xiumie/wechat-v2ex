@@ -46,12 +46,12 @@
 
 .replies {
     margin-top:30rpx;
-    border-top:1px solid #ddd;
+    border-top:2px solid #ddd;
 }
 
 .replies-item {
     padding:40rpx 0;
-    border-bottom:1px solid #eee;
+    border-bottom:2px solid #eee;
 }
 
 .reply-owner {
@@ -74,6 +74,7 @@
 
 .reply-time {
     margin-left: 30rpx;
+    align-content: right;
     color:#ccc;
 }
 
@@ -82,5 +83,5 @@
     line-height:1.4;
     word-wrap: break-word; 
     word-break: normal; 
-    color:#999;
+    color:#000;
 }

@@ -19,7 +19,7 @@
 
 .topic-item {
     padding:30rpx;
-    border-bottom: 1px solid #eee;
+    border-bottom: 3px solid #eee;
 }
 
 .topic-item {
@@ -57,7 +57,7 @@
     flex:1;
 }
 
-.node-name {
+.node-title {
     display: inline-block;
     margin-right: 20rpx;
     padding:5rpx 10rpx;
@@ -68,13 +68,13 @@
 .reply-num {
     display: inline-block;
     margin-left: 50rpx;
-    padding:10rpx;
-    height:22rpx;
-    background-color: #ddd;
-    border-radius: 5rpx;   
-    color:#777; 
+    padding:18rpx;
+    height:25rpx;
+    background-color: #aaa;
+    border-radius: 20rpx;   
+    color:#fff; 
 }
 
 .member-nickname {
-  color: #aaa;
+  color: #555;
 }

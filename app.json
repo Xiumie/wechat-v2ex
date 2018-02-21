@@ -6,12 +6,13 @@
     "pages/topicList/topicList",
     "pages/detail/detail"
   ],
+  "debug": true,
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "V2EX",
     "navigationBarTextStyle":"black",
-    "enablePullDownRefresh":"true"
+    "enablePullDownRefresh": true
   },
   "tabBar": {
     "color":"#000",

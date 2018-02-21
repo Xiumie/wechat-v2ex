@@ -13,3 +13,7 @@
 .node-title {
     padding-left:30px;
 }
+
+.node-name {
+    margin-left: 30rpx;
+}
